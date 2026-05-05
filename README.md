@@ -1,0 +1,1 @@
+COBOL Bank Account System — A classic command-line banking application written in COBOL, demonstrating core language features including the four divisions, WORKING-STORAGE variables, PIC clauses with currency formatting, PERFORM loops, and EVALUATE statements. Supports balance enquiry, deposits, withdrawals, and account info display. Compiled and tested with GnuCOBOL 3.x.
